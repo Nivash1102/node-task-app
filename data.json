@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "task": "Learn Node.js"
+    },
+    {
+        "id": 2,
+        "task": "Complete the assignment"
+    },
+    {
+        "id": 3,
+        "task": "Explore promise async"
+    }, 
+    {
+        "id": 4,
+        "task": "Use Third party node modules"
+    }
+
+]
